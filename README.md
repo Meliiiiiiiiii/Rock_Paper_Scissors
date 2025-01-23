@@ -1,6 +1,6 @@
 # **Rock-Paper-Scissors Game**
 
-### This C++ program simulates the classic Rock-Paper-Scissors game, where the user competes against the computer. The user makes a choice, and the computer randomly selects its own. The program then determines the winner based on the traditional rules of the game.
+This C++ program simulates the classic Rock-Paper-Scissors game, where the user competes against the computer. The user makes a choice, and the computer randomly selects its own. The program then determines the winner based on the traditional rules of the game.
 
 
 ![r-p-s](https://i.pinimg.com/originals/29/0c/64/290c647c6dc4bb265360c68e8ee5c2c5.gif)
